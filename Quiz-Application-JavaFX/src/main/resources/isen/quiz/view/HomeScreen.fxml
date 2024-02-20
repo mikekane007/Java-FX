@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="isen.quiz.view.HomeScreenController">
+   <children>
+      <Button layoutX="265.0" layoutY="344.0" mnemonicParsing="false" onAction="#handleButtonLaunch" text="Launch!" />
+      <Text layoutX="256.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="ISEN QUIZ" wrappingWidth="62.430419921875" />
+   </children>
+</AnchorPane>
