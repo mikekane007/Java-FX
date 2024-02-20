@@ -14,7 +14,7 @@ import java.io.IOException;
 public class App extends Application {
 
     private static Scene scene;
-
+// Hellow wordl
     @Override
     public void start(Stage stage) throws IOException {
         scene = new Scene(loadFXML("/isen/quiz/view/HomeScreen"), 640, 480);
